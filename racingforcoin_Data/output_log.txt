@@ -1,0 +1,48 @@
+Mono path[0] = 'D:/Users/wangjunbo/Desktop/我的作品/racingforcoin/racingforcoin_Data/Managed'
+Mono path[1] = 'D:/Users/wangjunbo/Desktop/我的作品/racingforcoin/racingforcoin_Data/Mono'
+Mono config path = 'D:/Users/wangjunbo/Desktop/我的作品/racingforcoin/racingforcoin_Data/Mono/etc'
+PlayerConnection initialized from D:/Users/wangjunbo/Desktop/我的作品/racingforcoin/racingforcoin_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55474
+Multi-casting "[IP] 211.71.12.172 [Port] 55474 [Flags] 3 [Guid] 1726165325 [EditorId] 328719110 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-IKD0KAN) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55474]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55474]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56325
+PlayerConnection already initialized - listening to [0.0.0.0:55474]
+Player data archive not found at `D:/Users/wangjunbo/Desktop/我的作品/racingforcoin/racingforcoin_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6610)
+    Vendor:   ATI
+    VRAM:     2026 MB
+    Driver:   21.19.519.2
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\wangjunbo\Desktop\我的作品\racingforcoin\racingforcoin_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.919464 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4868 -> priority: 1 
+  Thread -> id: bdc -> priority: 1 
+  Thread -> id: 3820 -> priority: 1 
+  Thread -> id: 137c -> priority: 1 
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Allocator/ThreadsafeLinearAllocator.cpp Line: 371)
+
